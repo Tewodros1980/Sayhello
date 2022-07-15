@@ -1,0 +1,9 @@
+click @ file:///Users/runner/miniforge3/conda-bld/click_1651215220522/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1651670959703/work
+gunicorn==20.1.0
+importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1653252883293/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1648147185463/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1648737704633/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1651670883478/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1649012893348/work
